@@ -1,0 +1,7 @@
+{
+  "name": "MedAssist AI",
+  "description": "Smart tools and AI assistant for an organized medical workflow with multi-language support and comprehensive clinical management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
